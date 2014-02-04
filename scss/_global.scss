@@ -1,0 +1,116 @@
+body {
+    background-color: #fafff7;
+    background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHhtbG5zOnhsaW5rPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rJyB3aWR0aD0nMTUnIGhlaWdodD0nNSc+Cgk8cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPScjZmFmZmY3Jy8+Cgk8ZWxsaXBzZSBjeD0nNTAlJyBjeT0nMCUnIHJ4PSc1MCUnIHJ5PSc1MCUnIGZpbGwtb3BhY2l0eT0nMC4wNScgZmlsbD0nIzY2YTg0MycvPgoJPGVsbGlwc2UgY3g9JzAlJyBjeT0nMTAwJScgcng9JzUwJScgcnk9JzUwJScgZmlsbC1vcGFjaXR5PScwLjA1JyBmaWxsPScjNjZhODQzJy8+Cgk8ZWxsaXBzZSBjeD0nMTAwJScgY3k9JzEwMCUnIHJ4PSc1MCUnIHJ5PSc1MCUnIGZpbGwtb3BhY2l0eT0nMC4wNScgZmlsbD0nIzY2YTg0MycvPgo8L3N2Zz4=');
+    color: $slate;
+    font-family: $ovo;
+    font-size: 1em;
+}
+
+a {
+    color: $purple;
+    @include vendor-prefix (transition, 0.3s color ease);
+
+    &:hover {
+    	color: $grass;
+    	@include vendor-prefix (transition, 0.3s color ease);
+    }
+}
+
+h1 {
+    color: $purple;
+    font-family: $ostrichReg;
+    text-transform: lowercase;
+    font-size: 3.25rem;
+    font-weight: normal;
+    letter-spacing: .05rem;
+    margin: 0 0 $margin;
+
+    span {
+        font-family: $ostrichReg;
+        font-size: .75rem;
+        line-height: 0;
+    }
+}
+
+h2 {
+    color: $green;
+    font-family: $ostrichReg;
+    text-transform: lowercase;
+    font-size: 2rem;
+    font-weight: normal;
+    letter-spacing: .05rem;
+    margin: 0 0 $margin;
+}
+
+h3 {
+    color: $purple;
+    font-family: $ostrichReg;
+    font-size: 2rem;
+    font-weight: normal;
+    letter-spacing: .02em;
+    margin: 0 0 $margin;
+    text-transform: lowercase;
+}
+
+h4 {
+    color: $green;
+    font-family: $ostrichReg;
+    text-transform: lowercase;
+    font-size: 1.75rem;
+    font-weight: normal;
+    letter-spacing: .05rem;
+    margin: 0;
+}
+
+h5 {
+    color: $purple;
+    font-family: $ostrichReg;
+    text-transform: lowercase;
+    font-size: 1.25rem;
+    font-weight: normal;
+    letter-spacing: 0.05rem;
+    margin: 0;
+}
+
+main {
+    overflow: hidden;
+    margin: 0 0 $margin;
+}
+
+.span12 {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+
+    .span12 {
+        margin: 0 0 $margin;
+        width: 100%;
+    }
+}
+
+.span10 {
+    float: left;
+    width: 83.3%;
+}
+
+.span9 {
+    float: left;
+    margin-right: 5%;
+    width: 70%;
+}
+
+.span8 {
+    float: left;
+    margin-right: 5%;
+    width: 62%;
+}
+
+.span4 {
+    float: left;
+    width: 33%;
+}
+
+.span3 {
+    float: left;
+    width: 25%;
+}

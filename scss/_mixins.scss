@@ -1,0 +1,57 @@
+/* =================================
+  Colors
+==================================*/
+
+$slate: #00363a;
+$sky: #a1d3dd;
+$green: #00a486;
+$grass: #66a843;
+$red: #c85f5e;
+$purple: #734f79;
+$orange: #fe9644;
+
+/* =================================
+  Margins
+==================================*/
+
+$margin: 1rem;
+$padding: 1rem;
+
+/* =================================
+  Fonts
+==================================*/
+
+$phantom: 'phantomregular', sans-serif;
+$ovo: 'Ovo', serif;
+$ostrichReg: 'ostrich_regular', sans-serif;
+$ostrichDouble: 'ostrich_double', sans-serif;
+
+/* =================================
+  Mixins
+==================================*/
+
+@mixin vendor-prefix ($name, $argument) {
+  #{$name}: $argument;
+  -webkit-#{$name}: $argument;
+  -ms-#{$name}: $argument;
+  -moz-#{$name}: $argument;
+  -o-#{$name}: $argument;
+}
+
+@mixin clear {
+	zoom: 1;
+	
+    &:after { 
+        clear: both; 
+        content: ""; 
+        display: block; 
+        position: 
+        relative; 
+        width: 100%; 
+    }
+}
+
+@mixin psuedo {
+    content: '';
+    position: absolute;
+}

@@ -1,0 +1,129 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300">
+<rect x="-0.4" fill="#F79547" class="goal-top" width="300" height="150"/>
+<rect x="-0.4" y="149.8" fill="#66A844" width="300" height="150"/>
+<g>
+	<g>
+		<path fill="#FFFFFF" d="M68.7,95.6h158.3c10.5,0,19,8.5,19,19v107h10.4v-116c0-11.6-9.4-21.1-21.1-21.1H59.6
+			c-11.6,0-21.1,9.4-21.1,21.1v116h11.2v-107C49.8,104.2,58.3,95.6,68.7,95.6z"/>
+	</g>
+	<g>
+		<polygon fill="#FFFFFF" points="99.4,169.6 198.5,169.6 246.5,220.9 253,220.9 203.7,162.6 93.7,162.6 42.4,220.1 49.4,220.1 		
+			"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<rect x="35.1" y="128.9" transform="matrix(0.5073 0.8617 -0.8617 0.5073 148.9157 -0.2568)" fill="#FFFFFF" width="79.2" height="2.4"/>
+			</g>
+			<g>
+				
+					<rect x="183.1" y="128.9" transform="matrix(-0.5073 0.8617 -0.8617 -0.5073 447.8164 4.2101)" fill="#FFFFFF" width="79.2" height="2.4"/>
+			</g>
+			<g>
+				<rect x="146.5" y="91.3" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				
+					<rect x="163.9" y="91.3" transform="matrix(0.999 4.485481e-02 -4.485481e-02 0.999 5.9294 -7.2759)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				
+					<rect x="179.6" y="91.3" transform="matrix(0.9973 7.338856e-02 -7.338856e-02 0.9973 9.9169 -12.9185)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				<rect x="200" y="91.3" transform="matrix(0.96 0.28 -0.28 0.96 44.0288 -51.185)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				
+					<rect x="131.2" y="91.3" transform="matrix(-0.999 4.494455e-02 -4.494455e-02 -0.999 270.4684 250.8911)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				
+					<rect x="115.6" y="91.3" transform="matrix(-0.9973 7.324963e-02 -7.324963e-02 -0.9973 242.6027 248.0773)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				
+					<rect x="95.2" y="91.3" transform="matrix(-0.9598 0.2805 -0.2805 -0.9598 224.9134 224.7811)" fill="#FFFFFF" width="2.4" height="74.5"/>
+			</g>
+			<g>
+				<rect x="62.3" y="108.1" fill="#FFFFFF" width="173.4" height="2.4"/>
+			</g>
+			<g>
+				<rect x="70.8" y="122.6" fill="#FFFFFF" width="156.3" height="2.4"/>
+			</g>
+			<g>
+				<rect x="78.5" y="136.2" fill="#FFFFFF" width="140.9" height="2.4"/>
+			</g>
+			<g>
+				<rect x="86.7" y="148.9" fill="#FFFFFF" width="124.6" height="2.4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<rect x="200.1" y="171.6" transform="matrix(0.6508 0.7593 -0.7593 0.6508 211.5542 -114.3549)" fill="#FFFFFF" width="59.9" height="2.4"/>
+				</g>
+				<g>
+					
+						<rect x="211.5" y="153.3" transform="matrix(0.6809 0.7323 -0.7323 0.6809 187.9624 -122.4594)" fill="#FFFFFF" width="46" height="2.4"/>
+				</g>
+				<g>
+					<polygon fill="#FFFFFF" points="249.4,144.4 226.3,123.5 227.9,121.7 251,142.7 					"/>
+				</g>
+				<g>
+					
+						<rect x="233" y="112.4" transform="matrix(0.8459 0.5333 -0.5333 0.8459 97.7008 -111.04)" fill="#FFFFFF" width="16.1" height="2.4"/>
+				</g>
+				<g>
+					
+						<rect x="229.4" y="104.6" transform="matrix(0.8445 0.5356 -0.5356 0.8445 112.1081 -101.3312)" fill="#FFFFFF" width="2.4" height="75.6"/>
+				</g>
+				<g>
+					
+						<rect x="234.5" y="123.6" transform="matrix(0.8465 0.5324 -0.5324 0.8465 120.0136 -101.326)" fill="#FFFFFF" width="2.4" height="67.7"/>
+				</g>
+				<g>
+					
+						<rect x="237.6" y="154.6" transform="matrix(0.8473 0.5311 -0.5311 0.8473 130.5056 -99.7875)" fill="#FFFFFF" width="2.4" height="45"/>
+				</g>
+				<g>
+					
+						<rect x="242.9" y="178.6" transform="matrix(0.8336 0.5524 -0.5524 0.8336 147.4334 -102.6807)" fill="#FFFFFF" width="2.4" height="29.4"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<rect x="37.6" y="171.6" transform="matrix(-0.6508 0.7593 -0.7593 -0.6508 242.7907 233.9426)" fill="#FFFFFF" width="59.9" height="2.4"/>
+				</g>
+				<g>
+					
+						<rect x="40.2" y="153.3" transform="matrix(-0.6809 0.7323 -0.7323 -0.6809 219.3122 213.4266)" fill="#FFFFFF" width="46" height="2.4"/>
+				</g>
+				<g>
+					
+						<rect x="43.4" y="131.9" transform="matrix(-0.7395 0.6731 -0.6731 -0.7395 192.253 191.7366)" fill="#FFFFFF" width="31.2" height="2.4"/>
+				</g>
+				<g>
+					
+						<rect x="48.6" y="112.4" transform="matrix(-0.8459 0.5333 -0.5333 -0.8459 165.1636 179.4169)" fill="#FFFFFF" width="16.1" height="2.4"/>
+				</g>
+				<g>
+					<polygon fill="#FFFFFF" points="86.4,174.9 88.4,173.7 47.9,109.8 45.9,111.1 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFFFFF" points="79,186.7 81,185.5 45,128.2 43,129.4 					"/>
+				</g>
+				<g>
+					
+						<rect x="57.7" y="154.6" transform="matrix(-0.8468 0.532 -0.532 -0.8468 202.944 295.72)" fill="#FFFFFF" width="2.4" height="45"/>
+				</g>
+				<g>
+					
+						<rect x="52.4" y="178.6" transform="matrix(-0.8335 0.5525 -0.5525 -0.8335 205.0206 324.9044)" fill="#FFFFFF" width="2.4" height="29.4"/>
+				</g>
+			</g>
+		<
+</svg>

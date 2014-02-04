@@ -1,0 +1,14 @@
+/*
+ Theme Name:     Twenty Fourteen Child
+ Description:    Twenty Fourteen Child Theme For Angiecat
+ Author:         diccfish
+ Author URI:     http://pollardld.com
+ Template:       twentyfourteen
+*/
+
+@import url("../twentyfourteen/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("css/style.css");

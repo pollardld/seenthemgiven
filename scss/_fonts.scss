@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'phantomregular';
+    src: url("../fonts/phantom_regular-webfont.eot");
+    src: url("../fonts/phantom_regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/phantom_regular-webfont.woff") format("woff"), url("../fonts/phantom_regular-webfont.ttf") format("truetype"), url("../fonts/phantom_regular-webfont.svg#phantomregular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ostrich_regular';
+    src: url('../fonts/ostrich-regular.eot');
+    src: url('../fonts/ostrich-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ostrich-regular.woff') format('woff'), url('../fonts/ostrich-regular.ttf') format('truetype'), url('../fonts/ostrich-regular.svg#ostrich_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ostrich_double';
+    src: url('../fonts/ostrich-double-webfont.eot');
+    src: url('../fonts/ostrich-double-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/ostrich-double-webfont.woff') format('woff'), url('../fonts/ostrich-double-webfont.ttf') format('truetype'), url('../fonts/ostrich-double-webfont.svg#ostrich_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: "icons";
+  src:url("../fonts/icons.eot");
+  src:url("../fonts/icons.eot?#iefix") format("embedded-opentype"), url("../fonts/icons.woff") format("woff"), url("../fonts/icons.ttf") format("truetype"), url("../fonts/icons.svg#untitled-font-4") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "a";
+}
+.icon-google:before {
+  content: "b";
+}
+.icon-twitter:before {
+  content: "c";
+}
